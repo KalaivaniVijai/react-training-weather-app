@@ -54,7 +54,7 @@ This will launch the app in your default web browser at http://localhost:3000.
 
 **Example API Request:**
   To fetch current weather for a location (e.g., New York), the request would look like this:
-  https://api.openweathermap.org/data/2.5/weather?q=New+York&appid=your_api_key&units=metric
+  https://api.openweathermap.org/data/2.5/weather?q=Cologne&appid=your_api_key
 
 ![image](https://github.com/user-attachments/assets/a0eaa036-82e5-4e93-8e58-4215e10b9907)
 
